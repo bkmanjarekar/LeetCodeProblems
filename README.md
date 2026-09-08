@@ -32,4 +32,8 @@ Solutions to LeetCode Problems
 |  |
 | ------- |
 | [3445-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/bkmanjarekar/LeetCodeProblems/tree/master/3445-maximum-difference-between-even-and-odd-frequency-ii) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/bkmanjarekar/LeetCodeProblems/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
