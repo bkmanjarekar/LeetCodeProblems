@@ -16,10 +16,12 @@ Solutions to LeetCode Problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bkmanjarekar/LeetCodeProblems/tree/master/0001-two-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/bkmanjarekar/LeetCodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bkmanjarekar/LeetCodeProblems/tree/master/0001-two-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/bkmanjarekar/LeetCodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -28,6 +30,7 @@ Solutions to LeetCode Problems
 |  |
 | ------- |
 | [3445-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/bkmanjarekar/LeetCodeProblems/tree/master/3445-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/bkmanjarekar/LeetCodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -48,4 +51,8 @@ Solutions to LeetCode Problems
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/bkmanjarekar/LeetCodeProblems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/bkmanjarekar/LeetCodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
