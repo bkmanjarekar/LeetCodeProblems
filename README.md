@@ -6,6 +6,7 @@ Solutions to LeetCode Problems
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/bkmanjarekar/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/bkmanjarekar/LeetCodeProblems/tree/master/0115-distinct-subsequences) |
 | [3445-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/bkmanjarekar/LeetCodeProblems/tree/master/3445-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Dynamic Programming
@@ -55,4 +56,12 @@ Solutions to LeetCode Problems
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/bkmanjarekar/LeetCodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/bkmanjarekar/LeetCodeProblems/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/bkmanjarekar/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
