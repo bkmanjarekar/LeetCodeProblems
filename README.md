@@ -18,6 +18,7 @@ Solutions to LeetCode Problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bkmanjarekar/LeetCodeProblems/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bkmanjarekar/LeetCodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/bkmanjarekar/LeetCodeProblems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bkmanjarekar/LeetCodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -67,4 +68,12 @@ Solutions to LeetCode Problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bkmanjarekar/LeetCodeProblems/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bkmanjarekar/LeetCodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/bkmanjarekar/LeetCodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
